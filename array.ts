@@ -1,0 +1,1 @@
+const salary = 7500

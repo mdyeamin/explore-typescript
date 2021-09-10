@@ -6,6 +6,6 @@ let love: boolean = false
 
 
 function add(first: number | string, secund: number | string): number {
-    const result: number | string = first + secund;
+    const result = first + secund;
     return result
 }
